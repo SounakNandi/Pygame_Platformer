@@ -3,6 +3,7 @@ A fun and interactive 2D platformer game built using Pygame. Navigate through ch
 
 ## Demo
 Check out the demo video to see the game in action:
+
 https://github.com/user-attachments/assets/f47b6bc2-9f91-4dd6-8539-65c5717aa6b7
 
 ## Installation
@@ -12,7 +13,7 @@ https://github.com/user-attachments/assets/f47b6bc2-9f91-4dd6-8539-65c5717aa6b7
    pip install pygame
 3. Clone this repository using this link or [download]( https://github.com/SounakNandi/Pygame_Platformer/archive/refs/heads/main.zip) the ZIP file and extract it:
    ```bash
-   [git clone https://github.com/yourusername/pygame-platformer.git](https://github.com/SounakNandi/Pygame_Platformer.git)
+   git clone https://github.com/SounakNandi/Pygame_Platformer.git
 4. Navigate to the project directory:
    ```bash
    cd Pygame_Platformer
@@ -59,8 +60,9 @@ https://github.com/user-attachments/assets/f47b6bc2-9f91-4dd6-8539-65c5717aa6b7
                   runLeft.png 
    ```
 ## Credits
-Developed by some cool guy (Sounak Nandi)<br>
+Developed by some cool guy [SOUNAK NANDI](https://github.com/SounakNandi)<br>
 Built with Pygame
+
 
 
 
